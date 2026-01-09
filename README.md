@@ -12,9 +12,15 @@ Créez un environnement Conda : conda create -n h2-analysis python=3.10
 Installez les dépendances : pip install pandas numpy scikit-learn matplotlib seaborn pymcdm
 ​
 
-# Utilisation
+## Utilisation
 
 H2_paysdelaloire.py : Exécutez python H2_paysdelaloire.py pour générer prédictions H2, classements régionaux, visualisations (barres, radar) et focus Vendée.
 ​
 H2_vendee.py : Lancez python H2_vendee.py (définissez METHOD=TOPSIS ou autre) pour rankings MCDA de scénarios H2 locaux vs imports.
 ​
+
+## Licence et Contribution
+```
+Auteur: Salim KLIBI - PhD Decision analysis & H2 energy Systems
+LinkedIn: https://www.linkedin.com/in/salim-klibi/
+```
