@@ -5,11 +5,11 @@ Ce repo implémente une prédiction de production H2 régionale via régression 
 
 ## Installation
 
-Clonez le repo : git clone https://github.com/votreusername/h2-paysdelaloire-vendee.git
+Clonez le repo : git clone httphttps://github.com/salimklibi/H2_energy_territory_evaluation.git
 
 Créez un environnement Conda : conda create -n h2-analysis python=3.10
 
-Installez les dépendances : pip install pandas numpy scikit-learn matplotlib seaborn pymcdm.
+Installez les dépendances : pip install pandas numpy scikit-learn matplotlib seaborn pymcdm
 ​
 
 # Utilisation
